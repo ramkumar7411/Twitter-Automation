@@ -1,6 +1,5 @@
 <h1 align="center">TweeterPy</h1>
 
-
 ## Overview
 TweeterPy is a python library to extract data from Twitter. TweeterPy API lets you scrape data from a user's profile like username, userid, bio, followers/followings list, profile media, tweets, etc.
 
